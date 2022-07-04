@@ -1,4 +1,4 @@
-use strict";
+"use strict";
 
 /**
  * Find the shortest string in an array.
